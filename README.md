@@ -1,3 +1,3 @@
 # TinDog
 
-<img src="https://github.com/muskan13-tech/TinDog/blob/main/readme.png" alt="banner"  height = 400px width=1700px>
+<img src="https://github.com/muskan13-tech/TinDog/blob/main/readme.png" alt="banner">
